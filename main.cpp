@@ -5,6 +5,12 @@
 //  Created by Derek Eckman on 6/27/17.
 //  Copyright © 2017 Derek Eckman. All rights reserved.
 //
+////// My Uml and my class of employee will make specfic changes and retreive specific information of employees. It will have clock in times, clock out times, and certain information for documentation.
+
+////// I believe that I will run into huge problems with my idea of manager roles and employee roles of retrieving files.
+//I also believe that a problem I will run into is figuring out how to organize the employees and the specific inform into a vector. I understand classes and how to retreieve information but organizing the employees into a vector and staying orgnaized will be hard. 
+
+
 
 #include <iostream>
 #include <cmath>
@@ -83,7 +89,7 @@ bool manager()
 void printemployee()
 {
     
-    cout << name.getname << setw(5) << name.getid << setw(5) << 
+    cout << name.getname << setw(5) << name.getid << setw(5) <<
     
 }
 int main(){
